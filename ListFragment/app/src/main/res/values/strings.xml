@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">List Fragment</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="layout_3">Layout 3</string>
+    <string name="layout_4">Layout 4</string>
+    <string name="layout_2">Layout 2</string>
+    <string name="layout_1">Layout 1</string>
+    <string name="layout1">Layout 1</string>
+    <string name="layout2">Layout 2</string>
+    <string name="layout3">Layout 3</string>
+    <string name="layout4">Layout 4</string>
+</resources>
